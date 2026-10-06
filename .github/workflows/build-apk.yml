@@ -1,4 +1,4 @@
-: Build MAP APK
+name: Build MAP APK
 
 on:
   workflow_dispatch:
